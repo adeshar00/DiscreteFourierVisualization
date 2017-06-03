@@ -1,1 +1,1 @@
-[demo](https://adeshar00.github.io/FourierVisualization2/)
+[demo](https://adeshar00.github.io/DiscreteFourierVisualization/)
